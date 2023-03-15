@@ -3,6 +3,7 @@
 #Script: Ops 301 Class 02 Ops Challenge Solution
 # Author: Dericus Horner
 # Date of latest revision:03/14/2023
+# With assistance from ChatGPT
 
 # Main 
 # Timestamped echo statements
